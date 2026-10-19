@@ -55,5 +55,5 @@ It means words per minute. Typing tests count every 5 characters as one "word", 
 
 ## Notes
 
-- Works on Windows for now. The source code is written to also work on Mac and Linux.
+- Works on Windows for now. 
 - Everything runs on your computer. Nothing is sent anywhere.
