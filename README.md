@@ -1,1 +1,1 @@
-<img width="200" height="200" alt="TypeLocal Logo" src="https://github.com/user-attachments/assets/a86662f3-f630-406a-8eb7-690c2b09a01b" />
+<img width="230" height="215" alt="TypeLocal Logo no bg" src="https://github.com/user-attachments/assets/0f93b562-a056-454e-b70c-5caf89f29afc" />
